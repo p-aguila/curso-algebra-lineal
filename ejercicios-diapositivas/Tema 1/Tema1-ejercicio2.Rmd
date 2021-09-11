@@ -8,7 +8,7 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE, comment = NA)
 ```
 
-## Enunciado
+## Enunciado...
 
 Dada la matriz $$A = \begin{pmatrix}2&3&-1&2\\3&2&5&0\\-1&7&0&4\\-4&1&-3&7\end{pmatrix}$$ comprobar que se cumple $A+(-A) = (-A)+A=O$
 
